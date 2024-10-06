@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/33082ccb-c74d-4f96-87e5-ffa20c9d3a5a" alt="Peerpesa-Stellar Logo" width="50" height="50"/>
-  <span style="font-size: 2em; font-weight: bold;">Peerpesa-Stellar</span>
+  <img src="https://github.com/user-attachments/assets/33082ccb-c74d-4f96-87e5-ffa20c9d3a5a" alt="Peerpesa-Stellar Logo" width="70" height="50"/>
 </p>
+# Peerpesa-Stellar
 
 This DApp allows users to send stablecoins to mobile numbers, interact with the Stellar blockchain, and transfer funds via mobile money. Below is a step-by-step explanation of how the DApp works, with visuals to help guide users through the process.
 
