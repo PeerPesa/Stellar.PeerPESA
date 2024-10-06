@@ -1,4 +1,4 @@
-# My DAp
+# Peerpesa-Stellar
 
 This DApp allows users to send  stablecoins to mobile number , interact with Stellar blockchain, and transfer funds via mobile money. Below is a step-by-step explanation of how the DApp works, with visuals to help guide users through the process.
 
@@ -18,7 +18,7 @@ This DApp facilitates the transfer of stablecoins from stellar wallets address t
 
 ## User Interface
 
-![User Interface Overview](./blog.png)
+![User Interface Overview](https://github.com/user-attachments/assets/15785daa-72b2-431a-9c5a-d5cd1e678f67)
 
 ## How It Works
 
@@ -26,7 +26,7 @@ This DApp facilitates the transfer of stablecoins from stellar wallets address t
 
 The first step is for the user to connect their stellar wallet address.
 
-![Connect Wallet](./assets/connect-wallet.png)
+![Connect Wallet](https://github.com/user-attachments/assets/a8a6a9eb-817f-4d4e-aee8-2183aa2f4ab0)
 
 Once connected, the user's wallet address and balance will be displayed.
 
@@ -34,7 +34,7 @@ Once connected, the user's wallet address and balance will be displayed.
 
 After the wallet is connected, the user's current cUSD balance is displayed.
 
-![Check Balance](./assets/check-balance.png)
+![Check Balance](https://github.com/user-attachments/assets/15785daa-72b2-431a-9c5a-d5cd1e678f67)
 
 *This balance is fetched directly from the stellar  wallet address .*
 
@@ -42,7 +42,7 @@ After the wallet is connected, the user's current cUSD balance is displayed.
 
 Next, the user enters the amount they wish to send, selects the destination country, and provides the recipient's mobile money account.
 
-![Send Money Form](./assets/send-money-form.png)
+![Send Money Form](https://github.com/user-attachments/assets/877d4553-5c8a-4604-bcaf-890e2fe3ade3)
 
 The DApp will convert the xlm amount to the local currency of the selected country.
 
@@ -50,7 +50,7 @@ The DApp will convert the xlm amount to the local currency of the selected count
 
 After confirming the details, the user can send the money.
 
-![Transaction Confirmation](./assets/confirmation.png)
+![Transaction Confirmation](https://github.com/user-attachments/assets/e8e0495c-cab3-4130-bbd1-0fc572b80986)
 
 *The confirmation screen shows the total amount to be deducted, including the transaction fee.*
 
