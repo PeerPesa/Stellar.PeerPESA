@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/33082ccb-c74d-4f96-87e5-ffa20c9d3a5a" alt="Peerpesa-Stellar Logo" width="50"/>
+  <img src="https://github.com/user-attachments/assets/33082ccb-c74d-4f96-87e5-ffa20c9d3a5a" alt="Peerpesa-Stellar Logo" width="100" height="80"/>
   <span style="font-size: 2em; font-weight: bold;">Peerpesa-Stellar</span>
 </p>
 
